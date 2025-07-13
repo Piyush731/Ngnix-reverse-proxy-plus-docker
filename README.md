@@ -1,4 +1,5 @@
-# DevOps Intern Assignment
+# NGINX Reverse Proxy with Docker 🐳
+A simple setup demonstrating how to use NGINX as a reverse proxy with multiple containerized web applications using Docker Compose. This project helps in routing traffic to different services based on subpaths or subdomains — a foundational step in deploying scalable microservices or web apps.
 
 ## Setup Instructions
 1. Clone repository: `git clone https://github.com/yourusername/devops-assignment.git`
